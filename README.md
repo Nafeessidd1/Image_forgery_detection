@@ -2,6 +2,10 @@
 
 This project is designed to detect image forgery using various techniques and tools. It includes a Flask web application that allows users to upload images and check their authenticity. The project utilizes the CASIA2 dataset from Kaggle.
 
+##Test Video
+https://github.com/user-attachments/assets/4a9a3c74-784e-4cd5-8849-d1c1940e450f
+
+
 ## Tech Stack
 
 - **Programming Language**: Python
